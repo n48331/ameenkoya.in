@@ -73,7 +73,7 @@ body,html,sub,sup {
 }
 
 .button span,.c-testimonial__author--name,.h-hero span,.p-info__list li p,.p-info__list li span,.p-next span,.projects__header span,header .nav a,header .nav span,p {
-    font-size: 1.0626em;
+    font-size: 1em;
     line-height: 1.5;
     letter-spacing: 0
 }
